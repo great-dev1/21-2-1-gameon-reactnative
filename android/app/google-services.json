@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "304254976428",
+    "firebase_url": "https://armago-27ca8.firebaseio.com",
+    "project_id": "armago-27ca8",
+    "storage_bucket": "armago-27ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304254976428:android:77fdef9e1d14d22a4e3a09",
+        "android_client_info": {
+          "package_name": "uk.armago.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304254976428-bhb87ppl40gca8c74cithqbv0okg8pvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.armago.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "304254976428-d6b88gc4gvr9qav43s14vup7hdfdf582.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq1GxbeScAsbVpbM9-3oCREDn9I3Qcj3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304254976428-d6b88gc4gvr9qav43s14vup7hdfdf582.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304254976428-fvrt6d4un9fons0snig8phof8l8othjk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uk.armago.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

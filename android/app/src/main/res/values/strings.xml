@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Armago</string>
+    <string name="facebook_app_id">662001721259008</string>
+    <string name="fb_login_protocol_scheme">fb662001721259008</string>
+</resources>
